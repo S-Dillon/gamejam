@@ -589,8 +589,12 @@ GameObject:
   - component: {fileID: 1310745335}
   - component: {fileID: 1310745334}
   - component: {fileID: 1310745336}
+<<<<<<< Updated upstream
   - component: {fileID: 1310745337}
   m_Layer: 0
+=======
+  m_Layer: 3
+>>>>>>> Stashed changes
   m_Name: Sand
   m_TagString: Solid
   m_Icon: {fileID: 0}
@@ -4469,6 +4473,7 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0.16}
   m_Radius: 0.060000002
+<<<<<<< Updated upstream
 --- !u!1 &2027249094
 GameObject:
   m_ObjectHideFlags: 0
@@ -4500,6 +4505,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2098522743}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> Stashed changes
 --- !u!4 &2098522743 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1544650614272011795, guid: 88097b566ad1fdd489d7ee77465b57aa, type: 3}
@@ -4619,6 +4626,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e1b52e287a574a948aeb04d97ac6963b, type: 3}
+<<<<<<< Updated upstream
 --- !u!1001 &7990667922770860539
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4676,6 +4684,8 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ffed93bda960bf34587a51774244ad8e, type: 3}
+=======
+>>>>>>> Stashed changes
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -4688,4 +4698,7 @@ SceneRoots:
   - {fileID: 1360403874}
   - {fileID: 4982070025157757907}
   - {fileID: 638057462}
+<<<<<<< Updated upstream
   - {fileID: 7990667922770860539}
+=======
+>>>>>>> Stashed changes
