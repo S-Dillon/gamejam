@@ -9,8 +9,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
+<<<<<<<< HEAD:Assets/PlayerStats.asset
   m_Script: {fileID: 11500000, guid: 10b823639e543694d890e5f8a77be1af, type: 3}
   m_Name: PlayerStats
+========
+  m_Script: {fileID: 11500000, guid: df95da14ad6f44798b076199f0491896, type: 3}
+  m_Name: ScriptableStats
+>>>>>>>> parent of 968a3fd (Character in Scene):Assets/ScriptableStats.asset
   m_EditorClassIdentifier: 
   PlayerLayer:
     serializedVersion: 2

@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/PlayerStats.asset.meta
 guid: 72e962ea500194a21bbd0c34259db1dc
+========
+guid: 87a8ebaefffb249b881bf47c826a99d5
+>>>>>>>> parent of 968a3fd (Character in Scene):Assets/ScriptableStats.asset.meta
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 11400000
