@@ -247,12 +247,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      portrait_karou_grateful_0: -8921772165345049165
-      portrait_karou_grateful_1: -8627693894276868849
-      portrait_karou_grateful_2: 6765464637807752252
-      portrait_karou_grateful_3: -1046982777744917630
-      portrait_karou_grateful_4: -3257814917787263028
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

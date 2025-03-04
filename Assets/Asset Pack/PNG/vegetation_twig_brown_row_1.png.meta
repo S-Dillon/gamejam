@@ -197,10 +197,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      vegetation_twig_brown_row_1_0: -7315298149905092689
-      vegetation_twig_brown_row_1_1: -7784999874874880870
-      vegetation_twig_brown_row_1_2: -18360988656316791
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

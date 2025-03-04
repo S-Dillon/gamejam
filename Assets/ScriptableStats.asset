@@ -9,8 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 10b823639e543694d890e5f8a77be1af, type: 3}
-  m_Name: Player Controller
+  m_Script: {fileID: 11500000, guid: df95da14ad6f44798b076199f0491896, type: 3}
+  m_Name: ScriptableStats
   m_EditorClassIdentifier: 
   PlayerLayer:
     serializedVersion: 2
@@ -28,5 +28,5 @@ MonoBehaviour:
   MaxFallSpeed: 40
   FallAcceleration: 110
   JumpEndEarlyGravityModifier: 3
-  CoyoteFrames: 7
-  JumpBufferFrames: 7
+  CoyoteTime: 0.15
+  JumpBuffer: 0.2

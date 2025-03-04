@@ -247,12 +247,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      portrait_karou_talk_0: -1369145704788495964
-      portrait_karou_talk_1: -1926544565830044253
-      portrait_karou_talk_2: 6352790818863531571
-      portrait_karou_talk_3: 6247034012931959027
-      portrait_karou_talk_4: 7708548868726399018
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

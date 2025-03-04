@@ -422,19 +422,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      character_boss_ground_exhausted_0: 4391922312362647756
-      character_boss_ground_exhausted_1: 3736793842842303232
-      character_boss_ground_exhausted_10: 2098731020529485649
-      character_boss_ground_exhausted_11: -1080733952071689053
-      character_boss_ground_exhausted_2: 2035277962070514381
-      character_boss_ground_exhausted_3: -459094533798773697
-      character_boss_ground_exhausted_4: 3686491434712015033
-      character_boss_ground_exhausted_5: 3777120624568981717
-      character_boss_ground_exhausted_6: 1518013020766912484
-      character_boss_ground_exhausted_7: -2135884861519836198
-      character_boss_ground_exhausted_8: -8264718748032833244
-      character_boss_ground_exhausted_9: -1861180247316405979
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

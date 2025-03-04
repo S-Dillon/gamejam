@@ -347,16 +347,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      portrait_karou_angry_0: 5769117794324653968
-      portrait_karou_angry_1: 782516363656123746
-      portrait_karou_angry_2: 1341849495349183019
-      portrait_karou_angry_3: -5591697477584536255
-      portrait_karou_angry_4: 7962711360857597371
-      portrait_karou_angry_5: -3468553725167121276
-      portrait_karou_angry_6: -7617979942403319596
-      portrait_karou_angry_7: -3384126561837719093
-      portrait_karou_angry_8: 5124136667972932443
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

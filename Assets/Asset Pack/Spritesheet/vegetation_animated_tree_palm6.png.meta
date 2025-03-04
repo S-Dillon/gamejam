@@ -422,19 +422,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      vegetation_animated_tree_palm6_0: 4313704029480772365
-      vegetation_animated_tree_palm6_1: 1477785744328034377
-      vegetation_animated_tree_palm6_10: 8628007394398114113
-      vegetation_animated_tree_palm6_11: -412592921050044824
-      vegetation_animated_tree_palm6_2: -167976956499382542
-      vegetation_animated_tree_palm6_3: -6016333964037630239
-      vegetation_animated_tree_palm6_4: 765178675920204291
-      vegetation_animated_tree_palm6_5: -7954991900998912668
-      vegetation_animated_tree_palm6_6: -8277819997066466814
-      vegetation_animated_tree_palm6_7: 8221446290441387653
-      vegetation_animated_tree_palm6_8: 4470075679184578205
-      vegetation_animated_tree_palm6_9: 578272742043286080
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

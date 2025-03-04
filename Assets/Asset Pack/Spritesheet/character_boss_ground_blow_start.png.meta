@@ -422,19 +422,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      character_boss_ground_blow_start_0: 806426273626471288
-      character_boss_ground_blow_start_1: 3672333790564938638
-      character_boss_ground_blow_start_10: -6389166998350650742
-      character_boss_ground_blow_start_11: 6407468276621121361
-      character_boss_ground_blow_start_2: 6468807066359381247
-      character_boss_ground_blow_start_3: 7443509015684956321
-      character_boss_ground_blow_start_4: 5473995593202379151
-      character_boss_ground_blow_start_5: 577347955299702711
-      character_boss_ground_blow_start_6: -795889402621114622
-      character_boss_ground_blow_start_7: -7295931056391852104
-      character_boss_ground_blow_start_8: -4059929623538895174
-      character_boss_ground_blow_start_9: -6257860122443655297
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

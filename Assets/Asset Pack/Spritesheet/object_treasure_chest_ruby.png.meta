@@ -247,12 +247,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      object_treasure_chest_ruby_0: -600429173501286260
-      object_treasure_chest_ruby_1: 7612733469414193482
-      object_treasure_chest_ruby_2: -7422814798596595148
-      object_treasure_chest_ruby_3: 6492437446325815891
-      object_treasure_chest_ruby_4: 1173047260045322046
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

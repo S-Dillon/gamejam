@@ -222,11 +222,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      particle_confetti_0: 2840548089734234701
-      particle_confetti_1: 4531257236199643368
-      particle_confetti_2: -8291309106041805620
-      particle_confetti_3: 8243293873381605318
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

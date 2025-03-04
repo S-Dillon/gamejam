@@ -322,15 +322,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      character_boss_nest_hatched_0: -13306831711250862
-      character_boss_nest_hatched_1: -4693491022444094069
-      character_boss_nest_hatched_2: 8862647225591654073
-      character_boss_nest_hatched_3: 6142399390965112153
-      character_boss_nest_hatched_4: 274082990733177485
-      character_boss_nest_hatched_5: -4472670765167155671
-      character_boss_nest_hatched_6: -8717010931911071027
-      character_boss_nest_hatched_7: 2202380159113536246
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

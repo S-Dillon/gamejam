@@ -272,13 +272,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      character_enemy_shell_idle_0: -3551079244054856393
-      character_enemy_shell_idle_1: 9021080218214552816
-      character_enemy_shell_idle_2: 8710729852962122184
-      character_enemy_shell_idle_3: -9060214937872318432
-      character_enemy_shell_idle_4: 4688349487015620028
-      character_enemy_shell_idle_5: -6459842912388461854
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

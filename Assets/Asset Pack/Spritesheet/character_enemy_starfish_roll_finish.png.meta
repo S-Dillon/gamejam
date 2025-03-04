@@ -297,14 +297,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      character_enemy_starfish_roll_finish_0: -7857801905153932715
-      character_enemy_starfish_roll_finish_1: -6157916354197334493
-      character_enemy_starfish_roll_finish_2: 3322707024995499604
-      character_enemy_starfish_roll_finish_3: 6978688263771875113
-      character_enemy_starfish_roll_finish_4: -4748766751661711219
-      character_enemy_starfish_roll_finish_5: 7868019858761859463
-      character_enemy_starfish_roll_finish_6: 583604714969555508
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

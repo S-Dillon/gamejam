@@ -347,16 +347,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      character_boss_fly_roar_start_0: 3932366794258867495
-      character_boss_fly_roar_start_1: -3347516114421643479
-      character_boss_fly_roar_start_2: 5570575941966109584
-      character_boss_fly_roar_start_3: 2330933357590182107
-      character_boss_fly_roar_start_4: -3273232992161304281
-      character_boss_fly_roar_start_5: 7026596609639231093
-      character_boss_fly_roar_start_6: 3577137308123979342
-      character_boss_fly_roar_start_7: 268476678062458688
-      character_boss_fly_roar_start_8: -1617362351316533698
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

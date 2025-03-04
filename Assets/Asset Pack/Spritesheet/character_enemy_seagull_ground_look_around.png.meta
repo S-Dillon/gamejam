@@ -297,14 +297,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      character_enemy_seagull_ground_look_around_0: 3495992372378604126
-      character_enemy_seagull_ground_look_around_1: -4445551207228002128
-      character_enemy_seagull_ground_look_around_2: -8133262762854572040
-      character_enemy_seagull_ground_look_around_3: 2375547245979729348
-      character_enemy_seagull_ground_look_around_4: -7021723450874035280
-      character_enemy_seagull_ground_look_around_5: 7762459179338376603
-      character_enemy_seagull_ground_look_around_6: -3374168506977756135
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

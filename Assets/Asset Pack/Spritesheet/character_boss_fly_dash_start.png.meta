@@ -347,16 +347,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      character_boss_fly_dash_start_0: 362800375541611591
-      character_boss_fly_dash_start_1: 3559820635669203008
-      character_boss_fly_dash_start_2: 543393885334350286
-      character_boss_fly_dash_start_3: 2604366663301911225
-      character_boss_fly_dash_start_4: 5365689823693279460
-      character_boss_fly_dash_start_5: -2671441430699641017
-      character_boss_fly_dash_start_6: 4241821885297510095
-      character_boss_fly_dash_start_7: 5231719493272729089
-      character_boss_fly_dash_start_8: -6276583156239147168
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

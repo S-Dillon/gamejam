@@ -222,11 +222,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      character_enemy_urchin_run_start_0: -6668614682895833426
-      character_enemy_urchin_run_start_1: -1492426696637003685
-      character_enemy_urchin_run_start_2: -1491450326726285255
-      character_enemy_urchin_run_start_3: -6396063709241908378
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

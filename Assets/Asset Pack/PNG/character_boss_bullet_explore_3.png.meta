@@ -222,11 +222,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      character_boss_bullet_explore_3_0: 3384084755801868092
-      character_boss_bullet_explore_3_1: 2583060814497607288
-      character_boss_bullet_explore_3_2: 3561935284899305357
-      character_boss_bullet_explore_3_3: -4468016477804131885
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

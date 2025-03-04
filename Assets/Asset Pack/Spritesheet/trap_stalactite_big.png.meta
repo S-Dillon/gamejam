@@ -422,19 +422,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      trap_stalactite_big_0: -6320333193819609822
-      trap_stalactite_big_1: 7474945538902601161
-      trap_stalactite_big_10: -463251553946880421
-      trap_stalactite_big_11: -4150630830915668431
-      trap_stalactite_big_2: 1623907585916426371
-      trap_stalactite_big_3: -5786856670346610731
-      trap_stalactite_big_4: 3970888332025297879
-      trap_stalactite_big_5: -4692103693906302009
-      trap_stalactite_big_6: -7039372881259168593
-      trap_stalactite_big_7: -75153530999841849
-      trap_stalactite_big_8: 2324971032773981915
-      trap_stalactite_big_9: -5166284272656450979
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

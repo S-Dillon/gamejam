@@ -322,15 +322,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      ui_head_berie_injured_0: 2892122560006218580
-      ui_head_berie_injured_1: -2528578353311055654
-      ui_head_berie_injured_2: -1836477210640340979
-      ui_head_berie_injured_3: 4602436799545513698
-      ui_head_berie_injured_4: -6204668115276992543
-      ui_head_berie_injured_5: 7138616643955328857
-      ui_head_berie_injured_6: 388272739863920635
-      ui_head_berie_injured_7: 4066870583444534155
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

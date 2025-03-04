@@ -847,36 +847,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      vegetation_twig_0: -6712270325975987872
-      vegetation_twig_1: -3492260017146468661
-      vegetation_twig_10: 3742352514001051394
-      vegetation_twig_11: -5998703302153070964
-      vegetation_twig_12: -543111633607205648
-      vegetation_twig_13: 1524105893474509152
-      vegetation_twig_14: 3435031161000331994
-      vegetation_twig_15: -5263582802490374644
-      vegetation_twig_16: 5076990928594860244
-      vegetation_twig_17: -3321159461466309244
-      vegetation_twig_18: 7509076416996894671
-      vegetation_twig_19: 7892670849215425018
-      vegetation_twig_2: -2366506752041506355
-      vegetation_twig_20: -5842819576656330718
-      vegetation_twig_21: -9145145467359220026
-      vegetation_twig_22: 7133427202011624237
-      vegetation_twig_23: 6083992139588445767
-      vegetation_twig_24: 4478493864269873108
-      vegetation_twig_25: 6459623322403977963
-      vegetation_twig_26: -5101635995573372859
-      vegetation_twig_27: -2249850435614673380
-      vegetation_twig_28: -3388084490736437412
-      vegetation_twig_3: 5150737332339413271
-      vegetation_twig_4: 6755958096493248113
-      vegetation_twig_5: -1824053680409116552
-      vegetation_twig_6: 6798759053874592240
-      vegetation_twig_7: 3850437036084001340
-      vegetation_twig_8: -1574604892848223699
-      vegetation_twig_9: -3969395112781530753
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

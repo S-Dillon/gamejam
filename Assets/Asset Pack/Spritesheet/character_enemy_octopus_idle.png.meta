@@ -222,11 +222,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      character_enemy_octopus_idle_0: -270569344521759397
-      character_enemy_octopus_idle_1: -9078052276689716774
-      character_enemy_octopus_idle_2: 4383193094661516207
-      character_enemy_octopus_idle_3: 188752570491259569
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

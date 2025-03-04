@@ -397,18 +397,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      vfx_explosion_big_fade_5_0: 2510152993902418374
-      vfx_explosion_big_fade_5_1: 2923878094557963862
-      vfx_explosion_big_fade_5_10: 843676690409836862
-      vfx_explosion_big_fade_5_2: -5986075388422758206
-      vfx_explosion_big_fade_5_3: 6172082351960642975
-      vfx_explosion_big_fade_5_4: 2231407220576196338
-      vfx_explosion_big_fade_5_5: 8633072250215917575
-      vfx_explosion_big_fade_5_6: 1793452984442984163
-      vfx_explosion_big_fade_5_7: 4503778184494957662
-      vfx_explosion_big_fade_5_8: 7908774079804406897
-      vfx_explosion_big_fade_5_9: 2399203325544662971
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

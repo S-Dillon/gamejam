@@ -322,15 +322,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      ui_boss_heart_0: 977152405379038615
-      ui_boss_heart_1: 8410546407041947544
-      ui_boss_heart_2: 1782102402699761424
-      ui_boss_heart_3: -5790748814682278732
-      ui_boss_heart_4: -4335569074664006381
-      ui_boss_heart_5: -5259005669499820979
-      ui_boss_heart_6: 6782521214807080000
-      ui_boss_heart_7: -5870599996717647746
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
