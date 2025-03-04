@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      collectibles_treasure_ruby_0: -7496802698397000405
+      collectibles_treasure_ruby_1: 2350661673954941805
+      collectibles_treasure_ruby_2: -3344836974152448684
+      collectibles_treasure_ruby_3: 1419476665926763212
+      collectibles_treasure_ruby_4: -4135584993878581972
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

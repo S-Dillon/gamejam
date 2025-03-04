@@ -972,7 +972,41 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_berie_injured_poisoned_0: 5686531897469359761
+      character_berie_injured_poisoned_1: 9086418769347650857
+      character_berie_injured_poisoned_10: -1318456875249011208
+      character_berie_injured_poisoned_11: 6557276706235653038
+      character_berie_injured_poisoned_12: -7988895496696668069
+      character_berie_injured_poisoned_13: 1937551256841346410
+      character_berie_injured_poisoned_14: -2031777986074150097
+      character_berie_injured_poisoned_15: -8700252695355135411
+      character_berie_injured_poisoned_16: 3902384568603471656
+      character_berie_injured_poisoned_17: 8125504748060553642
+      character_berie_injured_poisoned_18: 7868194152611055422
+      character_berie_injured_poisoned_19: -5928538991005378334
+      character_berie_injured_poisoned_2: 457485312864435811
+      character_berie_injured_poisoned_20: -1012505101727096502
+      character_berie_injured_poisoned_21: 365305022238577497
+      character_berie_injured_poisoned_22: -7207962612963084945
+      character_berie_injured_poisoned_23: -2930763075450492267
+      character_berie_injured_poisoned_24: 772839781890168000
+      character_berie_injured_poisoned_25: 1616392423214463883
+      character_berie_injured_poisoned_26: 1059413060866984808
+      character_berie_injured_poisoned_27: -7958211265749384058
+      character_berie_injured_poisoned_28: 1139931612832035599
+      character_berie_injured_poisoned_29: -8251944824721743394
+      character_berie_injured_poisoned_3: 6430215839277335784
+      character_berie_injured_poisoned_30: 8530748986540584143
+      character_berie_injured_poisoned_31: 3784217048083239111
+      character_berie_injured_poisoned_32: 7552420771808625036
+      character_berie_injured_poisoned_33: -4488362439332420757
+      character_berie_injured_poisoned_4: -8018395655555862624
+      character_berie_injured_poisoned_5: -411852112421480911
+      character_berie_injured_poisoned_6: -7772987461976428601
+      character_berie_injured_poisoned_7: -2942532904711703185
+      character_berie_injured_poisoned_8: -8242338834754213623
+      character_berie_injured_poisoned_9: 3418006574293028290
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

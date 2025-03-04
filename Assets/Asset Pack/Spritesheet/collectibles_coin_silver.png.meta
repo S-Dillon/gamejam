@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      collectibles_coin_silver_0: -5384835248230970188
+      collectibles_coin_silver_1: -1559850793364186795
+      collectibles_coin_silver_2: 330914796574423640
+      collectibles_coin_silver_3: 4209209205346159482
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

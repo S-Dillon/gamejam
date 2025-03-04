@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_berie_idle_poisoned_0: 7551873558645633579
+      character_berie_idle_poisoned_1: 6528172060908984618
+      character_berie_idle_poisoned_10: 3309442358450610820
+      character_berie_idle_poisoned_11: 8048397081043199192
+      character_berie_idle_poisoned_12: -949969016009221699
+      character_berie_idle_poisoned_13: -4930179951632643534
+      character_berie_idle_poisoned_14: 3230855562792891265
+      character_berie_idle_poisoned_15: -7704259476162487413
+      character_berie_idle_poisoned_16: 1561802664780145876
+      character_berie_idle_poisoned_17: -3112868649101341106
+      character_berie_idle_poisoned_18: 6805735766874988568
+      character_berie_idle_poisoned_19: 1649422744552038677
+      character_berie_idle_poisoned_2: 4104396173380585804
+      character_berie_idle_poisoned_3: -7134320430091051196
+      character_berie_idle_poisoned_4: -9128910925821681293
+      character_berie_idle_poisoned_5: -4615489647258696922
+      character_berie_idle_poisoned_6: -1156482199805267328
+      character_berie_idle_poisoned_7: 9138155571731561683
+      character_berie_idle_poisoned_8: 2115554118223802638
+      character_berie_idle_poisoned_9: -7120646857985081051
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

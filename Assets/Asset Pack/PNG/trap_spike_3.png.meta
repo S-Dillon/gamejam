@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      trap_spike_3_0: 6593826256480968158
+      trap_spike_3_1: 7724214835381542292
+      trap_spike_3_2: 8560090405948157382
+      trap_spike_3_3: -9187551301102098741
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

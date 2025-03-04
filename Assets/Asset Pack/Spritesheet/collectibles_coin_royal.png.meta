@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      collectibles_coin_royal_0: -5360556533625409862
+      collectibles_coin_royal_1: -806338405361329907
+      collectibles_coin_royal_2: -9050733582553916978
+      collectibles_coin_royal_3: 2350119056828787631
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

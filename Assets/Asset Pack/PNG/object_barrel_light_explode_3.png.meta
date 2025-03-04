@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      object_barrel_light_explode_3_0: 2078823738398954431
+      object_barrel_light_explode_3_1: -8394595202593101497
+      object_barrel_light_explode_3_2: 6830716254677512945
+      object_barrel_light_explode_3_3: 3047494559830311323
+      object_barrel_light_explode_3_4: 5552567908088711045
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

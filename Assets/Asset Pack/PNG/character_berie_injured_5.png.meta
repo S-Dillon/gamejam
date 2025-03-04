@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_berie_injured_5_0: -456183501322886053
+      character_berie_injured_5_1: -1092187617483834598
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

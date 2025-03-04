@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      collectibles_raspberry_big_4_0: 7614347698312672807
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

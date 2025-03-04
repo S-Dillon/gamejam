@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_berie_run_0: 8058436918641712274
+      character_berie_run_1: 3363897711294138139
+      character_berie_run_2: 7010352010634184446
+      character_berie_run_3: -8057259057992560077
+      character_berie_run_4: 3417541048032663117
+      character_berie_run_5: -5427931419475548966
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

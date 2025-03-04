@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      vegetation_grass_rock_trunk_0: 8138193371474411128
+      vegetation_grass_rock_trunk_1: -1572090414228948193
+      vegetation_grass_rock_trunk_2: 3883003641377657017
+      vegetation_grass_rock_trunk_3: 5235349856879133089
+      vegetation_grass_rock_trunk_4: 5695140776178660435
+      vegetation_grass_rock_trunk_5: -7907299057968385799
+      vegetation_grass_rock_trunk_6: 7588281940683390885
+      vegetation_grass_rock_trunk_7: -1206252928347004514
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

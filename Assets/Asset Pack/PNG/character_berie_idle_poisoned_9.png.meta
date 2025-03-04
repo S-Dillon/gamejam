@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_berie_idle_poisoned_9_0: -6875959758500850956
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

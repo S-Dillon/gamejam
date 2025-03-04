@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_berie_jump_2_0: 3732707590419852356
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

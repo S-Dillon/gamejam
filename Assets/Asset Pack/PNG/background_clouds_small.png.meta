@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      background_clouds_small_0: 8078513221317688024
+      background_clouds_small_1: -6874156197047648540
+      background_clouds_small_2: -7386017717517577454
+      background_clouds_small_3: 9128199474858319581
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

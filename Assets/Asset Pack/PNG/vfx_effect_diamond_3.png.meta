@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      vfx_effect_diamond_3_0: 4844645039229788855
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

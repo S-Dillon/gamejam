@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      collectibles_raspberry_small_0: 7953645657500377791
+      collectibles_raspberry_small_1: 860693765502087558
+      collectibles_raspberry_small_2: -4320563634407837365
+      collectibles_raspberry_small_3: 6316478981355401204
+      collectibles_raspberry_small_4: -2874498583569815973
+      collectibles_raspberry_small_5: -8349393452480883191
+      collectibles_raspberry_small_6: -2522978444812606875
+      collectibles_raspberry_small_7: 6516946290552031950
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

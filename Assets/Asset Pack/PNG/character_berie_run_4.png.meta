@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_berie_run_4_0: 4897213594876174453
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

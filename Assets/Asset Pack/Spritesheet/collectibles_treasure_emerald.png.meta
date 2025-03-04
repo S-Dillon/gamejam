@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      collectibles_treasure_emerald_0: 4549657216686003472
+      collectibles_treasure_emerald_1: -3033284036423664463
+      collectibles_treasure_emerald_2: 3050967136574036554
+      collectibles_treasure_emerald_3: -5237546660284129536
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

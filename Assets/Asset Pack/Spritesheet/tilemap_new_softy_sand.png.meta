@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tilemap_new_softy_sand_0: -5783529255047572989
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

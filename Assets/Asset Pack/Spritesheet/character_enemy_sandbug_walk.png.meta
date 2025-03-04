@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_enemy_sandbug_walk_0: 633561354030155085
+      character_enemy_sandbug_walk_1: -5304060117359645838
+      character_enemy_sandbug_walk_2: 1644007654540037915
+      character_enemy_sandbug_walk_3: -485760967377034769
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

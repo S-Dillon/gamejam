@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      collectibles_coin_silver_4_0: -4724360299432079182
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

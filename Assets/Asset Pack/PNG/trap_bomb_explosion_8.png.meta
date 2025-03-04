@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      trap_bomb_explosion_8_0: 8452063428495597652
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

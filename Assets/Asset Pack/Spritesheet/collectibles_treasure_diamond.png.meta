@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      collectibles_treasure_diamond_0: 6920604294829941872
+      collectibles_treasure_diamond_1: -8551596805081355713
+      collectibles_treasure_diamond_2: 4552937488081094396
+      collectibles_treasure_diamond_3: 4221798250163454955
+      collectibles_treasure_diamond_4: -6625048794675556994
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

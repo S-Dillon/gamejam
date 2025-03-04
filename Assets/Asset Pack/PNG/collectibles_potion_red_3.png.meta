@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      collectibles_potion_red_3_0: -5578539464478106152
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      object_barrel_light_idle_0: -7396588976185288515
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

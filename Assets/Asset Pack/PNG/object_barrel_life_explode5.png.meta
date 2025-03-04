@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      object_barrel_life_explode5_0: 3942073519703438993
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      object_barrel_life_0: -4468099338588796215
+      object_barrel_life_1: 6905991118218812198
+      object_barrel_life_10: 3800619704133584111
+      object_barrel_life_2: 3177194950967467767
+      object_barrel_life_3: 5095665935031262211
+      object_barrel_life_4: 2781599685029739302
+      object_barrel_life_5: -8349112503641882617
+      object_barrel_life_6: -2865289402604049601
+      object_barrel_life_7: -2333099425551523989
+      object_barrel_life_8: -687435338391508897
+      object_barrel_life_9: 3507855659759072853
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
