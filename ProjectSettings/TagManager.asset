@@ -2,17 +2,11 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 3
+  serializedVersion: 2
   tags:
-<<<<<<< Updated upstream
-  - Coin
   - Ground
-  - Solid
-  - Bullet
-=======
-  - Ground
-  - Coin
->>>>>>> Stashed changes
+  - Seagull
+  - Crisp
   layers:
   - Default
   - TransparentFX
@@ -20,10 +14,10 @@ TagManager:
   - Ground
   - Water
   - UI
-  - Player
-  - Ground
   - Bullet
-  - 
+  - Player
+  - Crisp
+  - Seagull
   - 
   - 
   - 
@@ -50,8 +44,3 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Player
-    uniqueID: 184081735
-    locked: 0
-  m_RenderingLayers:
-  - Default

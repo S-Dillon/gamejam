@@ -10,8 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 3313577549629954017}
   - component: {fileID: 5852168751085185090}
-  - component: {fileID: 8568605807020884591}
-  m_Layer: 0
+  - component: {fileID: 7252439269584361476}
+  m_Layer: 1
   m_Name: background_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -50,9 +50,6 @@ SpriteRenderer:
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
   m_RayTraceProcedural: 0
-  m_RayTracingAccelStructBuildFlagsOverride: 0
-  m_RayTracingAccelStructBuildFlags: 1
-  m_SmallMeshCulling: 1
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -82,13 +79,13 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 2
-  m_Size: {x: 27.24, y: 5.625}
+  m_Size: {x: 100, y: 5.625}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &8568605807020884591
+--- !u!114 &7252439269584361476
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -97,11 +94,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 2196712145754967065}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 829cedcb7d48f014ab2935e70c7b3979, type: 3}
+  m_Script: {fileID: 11500000, guid: aac0b9c1fa564584fab6a044e7d7e4b6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cameraTransform: {fileID: 0}
   parallaxFactor: 0.3
+  virtualCamera: {fileID: 0}
 --- !u!1 &2712940615987344109
 GameObject:
   m_ObjectHideFlags: 0
@@ -112,8 +109,8 @@ GameObject:
   m_Component:
   - component: {fileID: 7467678953918302737}
   - component: {fileID: 7471313138775923061}
-  - component: {fileID: 7147579525580700806}
-  m_Layer: 0
+  - component: {fileID: 6369156879081325087}
+  m_Layer: 1
   m_Name: background_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -152,9 +149,6 @@ SpriteRenderer:
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
   m_RayTraceProcedural: 0
-  m_RayTracingAccelStructBuildFlagsOverride: 0
-  m_RayTracingAccelStructBuildFlags: 1
-  m_SmallMeshCulling: 1
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -184,13 +178,13 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 2
-  m_Size: {x: 24.7, y: 5.625}
+  m_Size: {x: 100, y: 5.625}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &7147579525580700806
+--- !u!114 &6369156879081325087
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -199,11 +193,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 2712940615987344109}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 829cedcb7d48f014ab2935e70c7b3979, type: 3}
+  m_Script: {fileID: 11500000, guid: aac0b9c1fa564584fab6a044e7d7e4b6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cameraTransform: {fileID: 0}
   parallaxFactor: 0.5
+  virtualCamera: {fileID: 0}
 --- !u!1 &3030755919251451786
 GameObject:
   m_ObjectHideFlags: 0
@@ -214,8 +208,8 @@ GameObject:
   m_Component:
   - component: {fileID: 8188774002039229027}
   - component: {fileID: 8114680383397878326}
-  - component: {fileID: 5849698537767561534}
-  m_Layer: 0
+  - component: {fileID: 5081007107629792092}
+  m_Layer: 1
   m_Name: background_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -254,9 +248,6 @@ SpriteRenderer:
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
   m_RayTraceProcedural: 0
-  m_RayTracingAccelStructBuildFlagsOverride: 0
-  m_RayTracingAccelStructBuildFlags: 1
-  m_SmallMeshCulling: 1
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -285,14 +276,14 @@ SpriteRenderer:
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
-  m_DrawMode: 1
-  m_Size: {x: 309.4, y: 5.625}
+  m_DrawMode: 2
+  m_Size: {x: 100, y: 5.625}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &5849698537767561534
+--- !u!114 &5081007107629792092
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -301,11 +292,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 3030755919251451786}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 829cedcb7d48f014ab2935e70c7b3979, type: 3}
+  m_Script: {fileID: 11500000, guid: aac0b9c1fa564584fab6a044e7d7e4b6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cameraTransform: {fileID: 0}
   parallaxFactor: 0.1
+  virtualCamera: {fileID: 0}
 --- !u!1 &3222812176524068181
 GameObject:
   m_ObjectHideFlags: 0
@@ -315,7 +306,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1603567086083469032}
-  m_Layer: 0
+  m_Layer: 1
   m_Name: background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -332,7 +323,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 5.5255, y: 5.5255, z: 5.5255}
+  m_LocalScale: {x: 4.439737, y: 4.439737, z: 4.439737}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 8188774002039229027}
@@ -353,8 +344,8 @@ GameObject:
   m_Component:
   - component: {fileID: 2782093937413343195}
   - component: {fileID: 2761335581829593943}
-  - component: {fileID: 6670099633295636004}
-  m_Layer: 0
+  - component: {fileID: 4610324013736307281}
+  m_Layer: 1
   m_Name: background_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -393,9 +384,6 @@ SpriteRenderer:
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
   m_RayTraceProcedural: 0
-  m_RayTracingAccelStructBuildFlagsOverride: 0
-  m_RayTracingAccelStructBuildFlags: 1
-  m_SmallMeshCulling: 1
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -425,13 +413,13 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 2
-  m_Size: {x: 24.19, y: 5.625}
+  m_Size: {x: 100, y: 5.625}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &6670099633295636004
+--- !u!114 &4610324013736307281
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -440,11 +428,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 6497399315955624699}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 829cedcb7d48f014ab2935e70c7b3979, type: 3}
+  m_Script: {fileID: 11500000, guid: aac0b9c1fa564584fab6a044e7d7e4b6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cameraTransform: {fileID: 0}
   parallaxFactor: 0.4
+  virtualCamera: {fileID: 0}
 --- !u!1 &7296195030823671776
 GameObject:
   m_ObjectHideFlags: 0
@@ -455,8 +443,8 @@ GameObject:
   m_Component:
   - component: {fileID: 6459629254003311868}
   - component: {fileID: 1616033559953133775}
-  - component: {fileID: 680840923018056242}
-  m_Layer: 0
+  - component: {fileID: 7641740194929098251}
+  m_Layer: 1
   m_Name: background_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -495,9 +483,6 @@ SpriteRenderer:
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
   m_RayTraceProcedural: 0
-  m_RayTracingAccelStructBuildFlagsOverride: 0
-  m_RayTracingAccelStructBuildFlags: 1
-  m_SmallMeshCulling: 1
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -527,13 +512,13 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 2
-  m_Size: {x: 16.59, y: 5.625}
+  m_Size: {x: 100, y: 5.625}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &680840923018056242
+--- !u!114 &7641740194929098251
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -542,11 +527,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 7296195030823671776}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 829cedcb7d48f014ab2935e70c7b3979, type: 3}
+  m_Script: {fileID: 11500000, guid: aac0b9c1fa564584fab6a044e7d7e4b6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cameraTransform: {fileID: 0}
   parallaxFactor: 0.2
+  virtualCamera: {fileID: 0}
 --- !u!1 &8759509266994703589
 GameObject:
   m_ObjectHideFlags: 0
@@ -557,8 +542,8 @@ GameObject:
   m_Component:
   - component: {fileID: 2717991351145706056}
   - component: {fileID: 4813266461421581792}
-  - component: {fileID: 6448690974871612123}
-  m_Layer: 0
+  - component: {fileID: 6212526988203530964}
+  m_Layer: 1
   m_Name: background_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -597,9 +582,6 @@ SpriteRenderer:
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
   m_RayTraceProcedural: 0
-  m_RayTracingAccelStructBuildFlagsOverride: 0
-  m_RayTracingAccelStructBuildFlags: 1
-  m_SmallMeshCulling: 1
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -629,13 +611,13 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 2
-  m_Size: {x: 25.08, y: 5.625}
+  m_Size: {x: 100, y: 5.625}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &6448690974871612123
+--- !u!114 &6212526988203530964
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -644,8 +626,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 8759509266994703589}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 829cedcb7d48f014ab2935e70c7b3979, type: 3}
+  m_Script: {fileID: 11500000, guid: aac0b9c1fa564584fab6a044e7d7e4b6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cameraTransform: {fileID: 0}
-  parallaxFactor: 0.6
+  parallaxFactor: 0.5
+  virtualCamera: {fileID: 0}

@@ -1,21 +1,37 @@
 using UnityEngine;
+using Cinemachine;
 
 public class ParallaxEffect : MonoBehaviour
 {
-    public Transform cameraTransform;
-    public float parallaxFactor;
-
-    private Vector3 previousCameraPosition;
+    public float parallaxFactor; // Determines how fast this layer moves relative to the camera
+    public CinemachineVirtualCamera virtualCamera; // Reference to the Cinemachine Virtual Camera
+    private Transform cameraTransform;
+    private Vector3 lastCameraPosition;
 
     void Start()
     {
-        previousCameraPosition = cameraTransform.position;
+        if (virtualCamera != null)
+        {
+            cameraTransform = virtualCamera.VirtualCameraGameObject.transform; // Get the virtual camera's transform
+        }
+        else
+        {
+            cameraTransform = Camera.main.transform; // Fallback to the main camera
+        }
+
+        // Initialize the last camera position
+        lastCameraPosition = cameraTransform.position;
     }
 
-    void LateUpdate()
+    void Update()
     {
-        Vector3 deltaMovement = cameraTransform.position - previousCameraPosition;
-        transform.position += new Vector3(deltaMovement.x * parallaxFactor, 0, 0);
-        previousCameraPosition = cameraTransform.position;
+        // Calculate the camera movement
+        Vector3 cameraDelta = cameraTransform.position - lastCameraPosition;
+
+        // Apply parallax effect by moving the background in proportion to the camera's movement
+        transform.position += new Vector3(cameraDelta.x * parallaxFactor, cameraDelta.y * parallaxFactor, 0);
+
+        // Update the last camera position
+        lastCameraPosition = cameraTransform.position;
     }
 }
