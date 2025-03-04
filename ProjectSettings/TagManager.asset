@@ -4,22 +4,20 @@
 TagManager:
   serializedVersion: 3
   tags:
-<<<<<<< Updated upstream
-  - Solid
-=======
-  - Ground
   - Coin
->>>>>>> Stashed changes
+  - Ground
+  - Solid
+  - Bullet
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Ground
+  - 
   - Water
   - UI
   - Player
-  - Solid
-  - Projectile
+  - Ground
+  - Bullet
   - 
   - 
   - 
@@ -46,9 +44,6 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: Player
-    uniqueID: 184081735
     locked: 0
   m_RenderingLayers:
   - Default
