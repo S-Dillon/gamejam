@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_enemy_urchin_run_loop_0: -2888922079033542567
+      character_enemy_urchin_run_loop_1: -6467065285022853166
+      character_enemy_urchin_run_loop_2: 1375227766123804683
+      character_enemy_urchin_run_loop_3: -7875293506244391334
+      character_enemy_urchin_run_loop_4: 7998952676453773267
+      character_enemy_urchin_run_loop_5: 4804474892687290011
+      character_enemy_urchin_run_loop_6: -8661086734879634979
+      character_enemy_urchin_run_loop_7: -1565022959563908569
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

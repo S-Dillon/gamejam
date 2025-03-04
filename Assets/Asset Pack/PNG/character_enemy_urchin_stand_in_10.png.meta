@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_enemy_urchin_stand_in_10_0: -7967469366087990990
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

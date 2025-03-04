@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ui_head_berie_idle_0: -4933238358020362577
+      ui_head_berie_idle_1: -5194574858269709382
+      ui_head_berie_idle_2: 1246694321314772991
+      ui_head_berie_idle_3: 938116976393905761
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

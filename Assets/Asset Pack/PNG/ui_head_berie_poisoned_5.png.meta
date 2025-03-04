@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ui_head_berie_poisoned_5_0: -5605015625257356233
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

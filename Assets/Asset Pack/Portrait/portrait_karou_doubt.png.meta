@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      portrait_karou_doubt_0: -5579160583659168833
+      portrait_karou_doubt_1: -5403120457628801396
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_enemy_starfish_death_3_0: 8352738375509136236
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

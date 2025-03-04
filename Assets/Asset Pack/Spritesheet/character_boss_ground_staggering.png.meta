@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_boss_ground_staggering_0: 4310676840358075369
+      character_boss_ground_staggering_1: -5200576854969437034
+      character_boss_ground_staggering_2: 7120794826507864326
+      character_boss_ground_staggering_3: 8774617198200611853
+      character_boss_ground_staggering_4: 7568388465224990382
+      character_boss_ground_staggering_5: -1058137640419702648
+      character_boss_ground_staggering_6: -6099778309367799865
+      character_boss_ground_staggering_7: 7998420433154787683
+      character_boss_ground_staggering_8: -5935592979076931104
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

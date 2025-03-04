@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      vfx_explosion_big_idle_7_0: -6616722114032779236
+      vfx_explosion_big_idle_7_1: 9192216424919770274
+      vfx_explosion_big_idle_7_2: 3844325464989422222
+      vfx_explosion_big_idle_7_3: 2440136681271035856
+      vfx_explosion_big_idle_7_4: -4097855041109390319
+      vfx_explosion_big_idle_7_5: -9071104971348777361
+      vfx_explosion_big_idle_7_6: -2324854183908304558
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

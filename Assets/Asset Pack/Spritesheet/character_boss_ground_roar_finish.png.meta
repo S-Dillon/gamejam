@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_boss_ground_roar_finish_0: 2991546317659455468
+      character_boss_ground_roar_finish_1: -6601212466187418779
+      character_boss_ground_roar_finish_2: 7090347374781862023
+      character_boss_ground_roar_finish_3: 9089926172734058335
+      character_boss_ground_roar_finish_4: -6411513406585775969
+      character_boss_ground_roar_finish_5: -881665514991149535
+      character_boss_ground_roar_finish_6: -8047831794831822355
+      character_boss_ground_roar_finish_7: -7061065933759103270
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

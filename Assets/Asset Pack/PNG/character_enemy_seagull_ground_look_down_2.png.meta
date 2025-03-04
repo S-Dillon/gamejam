@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_enemy_seagull_ground_look_down_2_0: -2266724902705880539
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

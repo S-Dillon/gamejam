@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      portrait_berie_smile_0: -2652382960988449324
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

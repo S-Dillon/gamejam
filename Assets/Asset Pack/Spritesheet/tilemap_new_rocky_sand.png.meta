@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tilemap_new_rocky_sand_0: -4896342882453198521
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      object_bell_shrine_4_0: 5739200280850978443
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

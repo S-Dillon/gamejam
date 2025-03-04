@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_boss_fly_forward_start_0: -2913722409145561592
+      character_boss_fly_forward_start_1: 4000829373809410450
+      character_boss_fly_forward_start_2: 8949106113862099043
+      character_boss_fly_forward_start_3: 2892305542915291860
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

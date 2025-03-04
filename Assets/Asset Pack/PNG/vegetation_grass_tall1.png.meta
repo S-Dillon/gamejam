@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      vegetation_grass_tall1_0: 7000492397288451807
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

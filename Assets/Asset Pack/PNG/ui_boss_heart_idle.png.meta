@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ui_boss_heart_idle_0: -4574514810626166168
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

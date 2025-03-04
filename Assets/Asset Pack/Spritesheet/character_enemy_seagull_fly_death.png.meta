@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_enemy_seagull_fly_death_0: -3342948067431599643
+      character_enemy_seagull_fly_death_1: -2630691850753066365
+      character_enemy_seagull_fly_death_2: 8651914695851147464
+      character_enemy_seagull_fly_death_3: 8468851439628457196
+      character_enemy_seagull_fly_death_4: 6800980018856068897
+      character_enemy_seagull_fly_death_5: 2656069348151135651
+      character_enemy_seagull_fly_death_6: -2720918625315020257
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

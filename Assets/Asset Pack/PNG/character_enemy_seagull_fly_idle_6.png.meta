@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_enemy_seagull_fly_idle_6_0: 1164678415158272088
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

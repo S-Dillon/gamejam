@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_boss_ground_roar_finish_4_0: -8727001710779941358
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

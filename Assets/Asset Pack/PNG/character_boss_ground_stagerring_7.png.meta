@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_boss_ground_stagerring_7_0: -6209026114760782467
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

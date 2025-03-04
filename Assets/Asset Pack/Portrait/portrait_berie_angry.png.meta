@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      portrait_berie_angry_0: 1943495842228129160
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

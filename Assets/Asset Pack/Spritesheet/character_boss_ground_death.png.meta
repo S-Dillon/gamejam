@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_boss_ground_death_0: -8026475794400287843
+      character_boss_ground_death_1: 7439374540727741035
+      character_boss_ground_death_10: 8199678584945661232
+      character_boss_ground_death_11: 5538550810403882966
+      character_boss_ground_death_2: -3999622012473369958
+      character_boss_ground_death_3: -3565105422704381046
+      character_boss_ground_death_4: -2090517194216908529
+      character_boss_ground_death_5: -7337046297542402221
+      character_boss_ground_death_6: -7444140610159730714
+      character_boss_ground_death_7: -9131903446021777802
+      character_boss_ground_death_8: 5828197902173767250
+      character_boss_ground_death_9: 2192069197347437948
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

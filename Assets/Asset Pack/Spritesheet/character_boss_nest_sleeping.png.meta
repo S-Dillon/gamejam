@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_boss_nest_sleeping_0: -3116668932832607238
+      character_boss_nest_sleeping_1: -222046699517526504
+      character_boss_nest_sleeping_2: 9154637096356093527
+      character_boss_nest_sleeping_3: -3095343303937920140
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

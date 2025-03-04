@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_enemy_octopus_idle_2_0: 8473482501884697553
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

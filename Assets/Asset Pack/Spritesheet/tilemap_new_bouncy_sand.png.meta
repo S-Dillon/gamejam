@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tilemap_new_bouncy_sand_0: 3645171418939087008
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

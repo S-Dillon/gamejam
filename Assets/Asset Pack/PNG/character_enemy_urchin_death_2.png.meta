@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_enemy_urchin_death_2_0: 4703681663973364894
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

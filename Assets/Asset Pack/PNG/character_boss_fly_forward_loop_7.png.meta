@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_boss_fly_forward_loop_7_0: -7250450605845865712
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

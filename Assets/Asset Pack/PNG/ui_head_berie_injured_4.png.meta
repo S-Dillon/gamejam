@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ui_head_berie_injured_4_0: -1721234077809524242
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

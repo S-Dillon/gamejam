@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_boss_fly_dash_start_4_0: 7178740307287414903
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

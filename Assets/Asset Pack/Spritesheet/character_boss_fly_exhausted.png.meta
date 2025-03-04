@@ -472,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_boss_fly_exhausted_0: 8531715236043233810
+      character_boss_fly_exhausted_1: 8774026506125729703
+      character_boss_fly_exhausted_10: -2876574352122943252
+      character_boss_fly_exhausted_11: 7967932741011930996
+      character_boss_fly_exhausted_12: -2034114271266314043
+      character_boss_fly_exhausted_13: 8219960977981100280
+      character_boss_fly_exhausted_2: -2446114831112192714
+      character_boss_fly_exhausted_3: 4508047944584318948
+      character_boss_fly_exhausted_4: -3606626550421948323
+      character_boss_fly_exhausted_5: -879170150062120034
+      character_boss_fly_exhausted_6: -5830064521781494807
+      character_boss_fly_exhausted_7: 789829749018285337
+      character_boss_fly_exhausted_8: 8842166841497088717
+      character_boss_fly_exhausted_9: 6682399120715387453
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

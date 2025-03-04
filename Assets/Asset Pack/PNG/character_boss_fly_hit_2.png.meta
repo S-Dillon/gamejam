@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_boss_fly_hit_2_0: 7252790787073066799
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

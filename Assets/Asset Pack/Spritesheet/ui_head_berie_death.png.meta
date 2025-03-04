@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ui_head_berie_death_0: -8509758246660702549
+      ui_head_berie_death_1: -6480640948992523557
+      ui_head_berie_death_2: -5777497332312555395
+      ui_head_berie_death_3: -7259769503169916683
+      ui_head_berie_death_4: -2562035480956799776
+      ui_head_berie_death_5: -8636308924727894567
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

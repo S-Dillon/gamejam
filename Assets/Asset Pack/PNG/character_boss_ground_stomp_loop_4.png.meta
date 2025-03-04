@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_boss_ground_stomp_loop_4_0: 6765636952847030966
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_enemy_seagull_fly_death_5_0: -6094806653247714161
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

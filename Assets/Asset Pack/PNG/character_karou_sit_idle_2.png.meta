@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_karou_sit_idle_2_0: 5459410940345430117
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

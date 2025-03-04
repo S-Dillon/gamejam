@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_enemy_urchin_stand_out_0: 3055047245469236288
+      character_enemy_urchin_stand_out_1: -8543182974173517740
+      character_enemy_urchin_stand_out_10: -7910689460054747725
+      character_enemy_urchin_stand_out_11: -7458159664020276917
+      character_enemy_urchin_stand_out_2: -114859909410549100
+      character_enemy_urchin_stand_out_3: 8044647266398995550
+      character_enemy_urchin_stand_out_4: -939335823156610830
+      character_enemy_urchin_stand_out_5: -3293233351165636234
+      character_enemy_urchin_stand_out_6: -5734461397584940719
+      character_enemy_urchin_stand_out_7: 6608711384449471245
+      character_enemy_urchin_stand_out_8: 2422835965184776122
+      character_enemy_urchin_stand_out_9: -654296084840933732
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

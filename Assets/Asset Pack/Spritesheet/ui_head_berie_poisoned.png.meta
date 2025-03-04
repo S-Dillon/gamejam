@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ui_head_berie_poisoned_0: 5521236217314114408
+      ui_head_berie_poisoned_1: -4144586032599976033
+      ui_head_berie_poisoned_2: -2586974264248752044
+      ui_head_berie_poisoned_3: -7992693034798754866
+      ui_head_berie_poisoned_4: -7014729778059958392
+      ui_head_berie_poisoned_5: -4049153826906019662
+      ui_head_berie_poisoned_6: -6240987102723081232
+      ui_head_berie_poisoned_7: 6638565669487889734
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      vfx_explosion_big_fade_8_0: -9161774859691299273
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

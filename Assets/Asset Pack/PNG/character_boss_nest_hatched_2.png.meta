@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_boss_nest_hatched_2_0: 1611156663960576748
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

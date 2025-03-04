@@ -447,7 +447,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_boss_bullet_explode_0: -2321379981515180086
+      character_boss_bullet_explode_1: -1473117513107741459
+      character_boss_bullet_explode_10: 6491716102504781655
+      character_boss_bullet_explode_11: 8534486144285284202
+      character_boss_bullet_explode_12: 6466065296438302430
+      character_boss_bullet_explode_2: 9206065997590484270
+      character_boss_bullet_explode_3: -7551240273050194690
+      character_boss_bullet_explode_4: 1031124908939083671
+      character_boss_bullet_explode_5: 5553802863047251435
+      character_boss_bullet_explode_6: -1603432466825320329
+      character_boss_bullet_explode_7: 7374342535951745482
+      character_boss_bullet_explode_8: 6790132683008123038
+      character_boss_bullet_explode_9: -6383601806987153008
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

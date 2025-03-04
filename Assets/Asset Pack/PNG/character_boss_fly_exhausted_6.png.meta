@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_boss_fly_exhausted_6_0: 4789026202419196106
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

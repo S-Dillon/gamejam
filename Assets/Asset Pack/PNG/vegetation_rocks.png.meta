@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      vegetation_rocks_0: 1259368674020116703
+      vegetation_rocks_1: -4483557412249125217
+      vegetation_rocks_10: 2587584020782811628
+      vegetation_rocks_2: 8863028345766411063
+      vegetation_rocks_3: 8166144375725078745
+      vegetation_rocks_4: 8955742325172428141
+      vegetation_rocks_5: -745403084339763844
+      vegetation_rocks_6: -1405864238922274240
+      vegetation_rocks_7: -6373431636250582266
+      vegetation_rocks_8: 3312421452698086785
+      vegetation_rocks_9: -5165585931739276352
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_enemy_shell_impact_0: -5958632276353141600
+      character_enemy_shell_impact_1: -8909571549618466410
+      character_enemy_shell_impact_2: 1044959555987235737
+      character_enemy_shell_impact_3: -2629940790296231884
+      character_enemy_shell_impact_4: 8875977841230972097
+      character_enemy_shell_impact_5: 4082170902567876195
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

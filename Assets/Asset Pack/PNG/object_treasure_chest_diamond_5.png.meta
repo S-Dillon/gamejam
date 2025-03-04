@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      object_treasure_chest_diamond_5_0: 3354233250195808977
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

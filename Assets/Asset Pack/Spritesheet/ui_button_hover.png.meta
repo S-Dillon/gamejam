@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ui_button_hover_0: 5070475516838858995
+      ui_button_hover_1: 8338023656179142453
+      ui_button_hover_2: -7351460503112269122
+      ui_button_hover_3: 1331374304965837334
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_boss_nest_shaking_4_0: -8403526580753144402
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

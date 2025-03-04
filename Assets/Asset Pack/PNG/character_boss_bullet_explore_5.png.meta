@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_boss_bullet_explore_5_0: -8699692156002467889
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      vegetation_animated_tree_palm2_2_0: -7434696387540226219
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      trap_stalactite_small_0: -7822911797953005518
+      trap_stalactite_small_1: -5325001113836791979
+      trap_stalactite_small_2: 3331428115653597168
+      trap_stalactite_small_3: 6173749327737640197
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

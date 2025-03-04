@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ui_boss_heart_explode_6_0: 5470680739208175769
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

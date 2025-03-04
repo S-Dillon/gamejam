@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_boss_ground_exhausted_7_0: -1659498270088316596
+      character_boss_ground_exhausted_7_1: 1608308125747313949
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_enemy_octopus_bullet_0: 4352961296654469994
+      character_enemy_octopus_bullet_1: -3413582899380465089
+      character_enemy_octopus_bullet_2: 6418024889447500717
+      character_enemy_octopus_bullet_3: -825655382817391101
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

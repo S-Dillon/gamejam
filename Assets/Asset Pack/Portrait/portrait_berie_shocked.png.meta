@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      portrait_berie_shocked_0: -7395694509045618265
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

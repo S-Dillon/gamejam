@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_enemy_starfish_death_0: -4967936866548010144
+      character_enemy_starfish_death_1: -5023179735147026879
+      character_enemy_starfish_death_2: 7971828025321343167
+      character_enemy_starfish_death_3: 2260882441694194780
+      character_enemy_starfish_death_4: 4072022266282779625
+      character_enemy_starfish_death_5: -3241368018738374596
+      character_enemy_starfish_death_6: 1395232512996867803
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_enemy_starfish_idle_2_0: 5665448578940794470
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
