@@ -4,12 +4,17 @@
 TagManager:
   serializedVersion: 3
   tags:
+<<<<<<< Updated upstream
   - Solid
+=======
+  - Ground
+  - Coin
+>>>>>>> Stashed changes
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
   - Player
@@ -41,6 +46,9 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 184081735
     locked: 0
   m_RenderingLayers:
   - Default

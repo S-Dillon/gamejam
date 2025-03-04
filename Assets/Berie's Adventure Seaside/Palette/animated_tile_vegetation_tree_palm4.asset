@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: animated_tile_vegetation_tree_palm4
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 1258421935, guid: 77f95b82d940dbb4180c6757661a8db1, type: 3}
+  - {fileID: -472614283, guid: 77f95b82d940dbb4180c6757661a8db1, type: 3}
+  - {fileID: 131902701, guid: 77f95b82d940dbb4180c6757661a8db1, type: 3}
+  - {fileID: 29189840, guid: 77f95b82d940dbb4180c6757661a8db1, type: 3}
+  - {fileID: 1599814745, guid: 77f95b82d940dbb4180c6757661a8db1, type: 3}
+  - {fileID: 581645113, guid: 77f95b82d940dbb4180c6757661a8db1, type: 3}
+  - {fileID: -806635470, guid: 77f95b82d940dbb4180c6757661a8db1, type: 3}
+  - {fileID: -1291374673, guid: 77f95b82d940dbb4180c6757661a8db1, type: 3}
+  - {fileID: 1326262057, guid: 77f95b82d940dbb4180c6757661a8db1, type: 3}
+  - {fileID: -1957302584, guid: 77f95b82d940dbb4180c6757661a8db1, type: 3}
+  - {fileID: -323013223, guid: 77f95b82d940dbb4180c6757661a8db1, type: 3}
+  - {fileID: -50989402, guid: 77f95b82d940dbb4180c6757661a8db1, type: 3}
+  m_MinSpeed: 12
+  m_MaxSpeed: 12
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
