@@ -15,6 +15,7 @@ public class GameManager : MonoBehaviour
     private int crispsCollected = 0; // Current crisps collected
     public int totalCrispsNeeded = 18; // Total crisps to collect
 
+
     private PlayerController playerController; // Reference to PlayerController script
     private Vector3[] seagullStartPositions; // To store initial positions of seagulls
     private GameObject[] seagulls; // Array to hold all seagulls in the scene
@@ -36,13 +37,15 @@ public class GameManager : MonoBehaviour
         {
             seagullStartPositions[i] = seagulls[i].transform.position;
         }
+
+      
+        
     }
 
     public void CheckWinCondition()
     {
         if (crispsCollected >= totalCrispsNeeded)
         {
-            Debug.Log("You win!");
             WinGame();
         }
         else
@@ -66,6 +69,9 @@ public class GameManager : MonoBehaviour
     {
         // Logic when the player wins
         Debug.Log("Victory! Loading the win screen...");
+
+        // Stop the timer and log the player's winning time
+        
 
         // Example: Load a "Win" scene (make sure to create this scene)
         SceneManager.LoadScene("WinScreen");
@@ -96,8 +102,67 @@ public class GameManager : MonoBehaviour
             }
         }
 
+        
+
         // Fade to black and show retry panel
         StartCoroutine(FadeAndReset());
+    }
+
+    public void Retry()
+    {
+        Debug.Log("Retrying level...");
+
+        // Enable and reset the player
+        player.SetActive(true);
+        if (playerStartPosition != null)
+        {
+            player.transform.position = playerStartPosition.position;
+        }
+
+        // Enable player's movement
+        if (playerController != null)
+        {
+            playerController.canMove = true;
+        }
+
+        // Reset and re-enable all seagulls
+        for (int i = 0; i < seagulls.Length; i++)
+        {
+            if (seagulls[i] != null)
+            {
+                // Reset seagull position to their initial starting positions
+                seagulls[i].transform.position = seagullStartPositions[i];
+
+                // Re-enable the seagull GameObject
+                seagulls[i].SetActive(true);
+
+                // Restore their original layer
+                seagulls[i].layer = LayerMask.NameToLayer("Seagull");
+
+                // Re-enable the collider for the seagull
+                Collider2D collider = seagulls[i].GetComponent<Collider2D>();
+                if (collider != null)
+                {
+                    collider.enabled = true; // Re-enable the collider
+                }
+
+                // Reset seagull behavior if there is a custom script
+                SeagullBehavior seagullBehavior = seagulls[i].GetComponent<SeagullBehavior>();
+                if (seagullBehavior != null)
+                {
+                    seagullBehavior.ResetSeagull(); // Call the reset method to restore their default state
+                }
+            }
+        }
+
+        // Reset crisps collected and the crisp counter
+        crispsCollected = 0;
+        UpdateCrispCounter();
+
+        
+
+        // Fade out the retry panel
+        StartCoroutine(FadeCanvasGroup(retryPanelCanvasGroup, 1, 0));
     }
 
     private System.Collections.IEnumerator FadeAndReset()
@@ -108,63 +173,9 @@ public class GameManager : MonoBehaviour
         // Reset crisps count
         crispsCollected = 0;
         UpdateCrispCounter();
+
+        
     }
-
-    public void Retry()
-    {
-    Debug.Log("Retrying level...");
-
-    // Enable and reset the player
-    player.SetActive(true);
-    if (playerStartPosition != null)
-    {
-        player.transform.position = playerStartPosition.position;
-    }
-
-    // Enable player's movement
-    if (playerController != null)
-    {
-        playerController.canMove = true;
-    }
-
-    // Reset and re-enable all seagulls
-    for (int i = 0; i < seagulls.Length; i++)
-    {
-        if (seagulls[i] != null)
-        {
-            // Reset seagull position to their initial starting positions
-            seagulls[i].transform.position = seagullStartPositions[i];
-
-            // Re-enable the seagull GameObject
-            seagulls[i].SetActive(true);
-
-            // Restore their original layer
-            seagulls[i].layer = LayerMask.NameToLayer("Seagull");
-
-            // Re-enable the collider for the seagull
-            Collider2D collider = seagulls[i].GetComponent<Collider2D>();
-            if (collider != null)
-            {
-                collider.enabled = true; // Re-enable the collider
-            }
-
-            // Reset seagull behavior if there is a custom script
-            SeagullBehavior seagullBehavior = seagulls[i].GetComponent<SeagullBehavior>();
-            if (seagullBehavior != null)
-            {
-                seagullBehavior.ResetSeagull(); // Call the reset method to restore their default state
-            }
-        }
-    }
-
-    // Optionally reset the crisp counter (if retry should clear progress)
-    crispsCollected = 0;
-    UpdateCrispCounter();
-
-    // Fade out the retry panel
-    StartCoroutine(FadeCanvasGroup(retryPanelCanvasGroup, 1, 0));
-    }
-
 
     private System.Collections.IEnumerator FadeCanvasGroup(CanvasGroup canvasGroup, float startAlpha, float endAlpha)
     {
