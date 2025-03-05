@@ -13,43 +13,25 @@ public class Bullet : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-    // Check if the bullet collided with the ground
-    if (((1 << collision.gameObject.layer) & groundLayer) != 0)
-    {
-        Destroy(gameObject); // Destroy the bullet
-    }
-
-    // Check if the bullet collided with a Seagull enemy
-    if (collision.gameObject.CompareTag("Seagull"))
-    {
-        // Notify the seagull of the hit
-        SeagullBehavior seagull = collision.gameObject.GetComponent<SeagullBehavior>();
-        if (seagull != null)
+        // Check if the bullet collided with the ground
+        if (((1 << collision.gameObject.layer) & groundLayer) != 0)
         {
-            seagull.OnHit();
+            Destroy(gameObject); // Destroy the bullet
+            return;
         }
 
-        // Destroy the bullet
-        Destroy(gameObject);
+        // Check if the bullet collided with a Seagull enemy
+        if (collision.gameObject.CompareTag("Seagull"))
+        {
+            // Notify the seagull of the hit
+            SeagullBehavior seagull = collision.gameObject.GetComponent<SeagullBehavior>();
+            if (seagull != null)
+            {
+                seagull.OnHit(); // Delegate all hit logic to the SeagullBehavior script
+            }
+
+            // Destroy the bullet
+            Destroy(gameObject);
+        }
     }
-    }
-
-    void PlaySeagullSound(GameObject seagull)
-    {
-    // Get the AudioSource component on the seagull
-    AudioSource audioSource = seagull.GetComponent<AudioSource>();
-
-    if (audioSource != null)
-    {
-        // Randomize the pitch slightly for variation
-        audioSource.pitch = Random.Range(0.9f, 1.1f);
-
-        // Play the audio clip
-        audioSource.Play();
-
-        // Destroy the seagull after the sound finishes playing
-        Destroy(seagull, audioSource.clip.length);
-    }
-    }
-
 }

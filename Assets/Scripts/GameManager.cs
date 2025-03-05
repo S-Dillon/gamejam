@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 using TarodevController; // Ensure PlayerController namespace is recognized
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -12,7 +13,7 @@ public class GameManager : MonoBehaviour
     public Button retryButton; // Retry button
     public float fadeDuration = 1f; // Duration for fading
     private int crispsCollected = 0; // Current crisps collected
-    public int totalCrispsNeeded = 30; // Total crisps to collect
+    public int totalCrispsNeeded = 18; // Total crisps to collect
 
     private PlayerController playerController; // Reference to PlayerController script
     private Vector3[] seagullStartPositions; // To store initial positions of seagulls
@@ -37,6 +38,19 @@ public class GameManager : MonoBehaviour
         }
     }
 
+    public void CheckWinCondition()
+    {
+        if (crispsCollected >= totalCrispsNeeded)
+        {
+            Debug.Log("You win!");
+            WinGame();
+        }
+        else
+        {
+            Debug.Log("Not enough crisps to win!");
+        }
+    }
+
     public void AddCrisp()
     {
         crispsCollected++;
@@ -46,6 +60,15 @@ public class GameManager : MonoBehaviour
         {
             Debug.Log("All crisps collected! You win!");
         }
+    }
+
+    private void WinGame()
+    {
+        // Logic when the player wins
+        Debug.Log("Victory! Loading the win screen...");
+
+        // Example: Load a "Win" scene (make sure to create this scene)
+        SceneManager.LoadScene("WinScreen");
     }
 
     private void UpdateCrispCounter()
@@ -89,33 +112,59 @@ public class GameManager : MonoBehaviour
 
     public void Retry()
     {
-        player.SetActive(true);
+    Debug.Log("Retrying level...");
 
-        // Reset player position
-        if (playerStartPosition != null)
-        {
-            player.transform.position = playerStartPosition.position;
-        }
+    // Enable and reset the player
+    player.SetActive(true);
+    if (playerStartPosition != null)
+    {
+        player.transform.position = playerStartPosition.position;
+    }
 
-        // Enable player's movement
-        if (playerController != null)
-        {
-            playerController.canMove = true;
-        }
+    // Enable player's movement
+    if (playerController != null)
+    {
+        playerController.canMove = true;
+    }
 
-        // Reset and re-enable all seagulls
-        for (int i = 0; i < seagulls.Length; i++)
+    // Reset and re-enable all seagulls
+    for (int i = 0; i < seagulls.Length; i++)
+    {
+        if (seagulls[i] != null)
         {
-            if (seagulls[i] != null)
+            // Reset seagull position to their initial starting positions
+            seagulls[i].transform.position = seagullStartPositions[i];
+
+            // Re-enable the seagull GameObject
+            seagulls[i].SetActive(true);
+
+            // Restore their original layer
+            seagulls[i].layer = LayerMask.NameToLayer("Seagull");
+
+            // Re-enable the collider for the seagull
+            Collider2D collider = seagulls[i].GetComponent<Collider2D>();
+            if (collider != null)
             {
-                // Reset position and reactivate
-                seagulls[i].transform.position = seagullStartPositions[i];
-                seagulls[i].SetActive(true);
+                collider.enabled = true; // Re-enable the collider
+            }
+
+            // Reset seagull behavior if there is a custom script
+            SeagullBehavior seagullBehavior = seagulls[i].GetComponent<SeagullBehavior>();
+            if (seagullBehavior != null)
+            {
+                seagullBehavior.ResetSeagull(); // Call the reset method to restore their default state
             }
         }
-
-        StartCoroutine(FadeCanvasGroup(retryPanelCanvasGroup, 1, 0));
     }
+
+    // Optionally reset the crisp counter (if retry should clear progress)
+    crispsCollected = 0;
+    UpdateCrispCounter();
+
+    // Fade out the retry panel
+    StartCoroutine(FadeCanvasGroup(retryPanelCanvasGroup, 1, 0));
+    }
+
 
     private System.Collections.IEnumerator FadeCanvasGroup(CanvasGroup canvasGroup, float startAlpha, float endAlpha)
     {
