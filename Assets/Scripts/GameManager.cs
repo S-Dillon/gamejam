@@ -20,8 +20,11 @@ public class GameManager : MonoBehaviour
     private Vector3[] seagullStartPositions; // To store initial positions of seagulls
     private GameObject[] seagulls; // Array to hold all seagulls in the scene
 
+    private LeaderboardManager leaderboardManager; // Reference to LeaderboardManager script
+
     void Start()
     {
+        leaderboardManager = FindObjectOfType<LeaderboardManager>(); // Find the LeaderboardManager in the scene
         playerController = player.GetComponent<PlayerController>(); // Get PlayerController script
         retryPanelCanvasGroup.alpha = 0; // Initially hide retry panel
         retryPanelCanvasGroup.interactable = false;
@@ -42,10 +45,10 @@ public class GameManager : MonoBehaviour
         
     }
 
-    public void CheckWinCondition()
-    {
+    public void CheckWinCondition(){
         if (crispsCollected >= totalCrispsNeeded)
         {
+            leaderboardManager.StopTimer();
             WinGame();
         }
         else
